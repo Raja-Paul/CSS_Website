@@ -1,0 +1,13 @@
+
+.about__content {
+  padding-left: 50px;
+}
+
+.about__img img {
+  border-radius: 15px;
+  height: 70vh;
+}
+
+.about__content h2 {
+  font-weight: 600;
+}
